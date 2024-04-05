@@ -1,16 +1,23 @@
-### Hi there 👋
+# Shane Schmaltz 🚀
 
-<!--
-**stschmaltz/stschmaltz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Calgary, AB, Canada | [LinkedIn](https://www.linkedin.com/in/stschmaltz/) | [GitHub](https://github.com/stschmaltz)
 
-Here are some ideas to get you started:
+## Welcome to my profile! 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently a Staff Software Developer at [Jobber](https://getjobber.com/), working as a full-stack developer on the invoicing team. Before this, I was one of the early developers at [Neo Financial](https://www.neofinancial.com/) and was a team+tech lead as we scaled from 0 to over a million users. I’m passionate about building meaningful software with a tech stack that excites me.
+
+### Tech Stack 🛠
+- **Languages & Frameworks:** TypeScript/JavaScript, React, Node.js, Ruby on Rails
+- **Databases:** MongoDB, PostgreSQL, DynamoDB
+- **Cloud & Tools:** AWS, Terraform, Serverless Framework
+- **Design Patterns:** Event-driven, Microservice, Monolithic architectures
+
+### Side Projects 🎨
+- **[PracticePal](https://practicepal.app):** A tool for musicians to track their practice sessions.
+- **[FitnessFam](https://fitnessfam.app):** Helps organize workout routines and track progress.
+
+### Hobbies 🎵🎮🏂🎧
+- **Drumming:** 🥁 I enjoy playing drums, mostly learning covers for my garage band.
+- **Gaming:** 🎮 I'm a lifelong gamer and love a variety of games. Elden Ring and Hades are my current favourites.
+- **Snowboarding:** 🏂 Love hitting the mountains and enjoying the snow as much as possible.
+- **Music:** 🎧 Playing music is a more recent hobby of mine, but I've loved listening to it my whole life
