@@ -4,7 +4,7 @@
 
 ## Welcome to my profile! 👋
 
-I'm currently a Staff Software Developer at [Jobber](https://getjobber.com/), working as a full-stack developer on the invoicing team. Before this, I was one of the early developers at [Neo Financial](https://www.neofinancial.com/) and was a team+tech lead as we scaled from 0 to over a million users. I’m passionate about building meaningful software with a tech stack that excites me.
+I'm currently a Staff Software Developer at [Jobber](https://getjobber.com/), working full-stack on the invoicing team. Before this, I was one of the early developers at [Neo Financial](https://www.neofinancial.com/) and was a team+tech lead as we scaled from 0 to over a million users. I’m passionate about building meaningful software with a tech stack that excites me.
 
 ### Tech Stack 🛠
 - **Languages & Frameworks:** TypeScript/JavaScript, React, Node.js, Ruby on Rails
