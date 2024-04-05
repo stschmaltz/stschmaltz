@@ -16,7 +16,7 @@ I'm currently a Staff Software Developer at [Jobber](https://getjobber.com/), wo
 - **[PracticePal](https://practicepal.app):** A tool for musicians to track their practice sessions.
 - **[FitnessFam](https://fitnessfam.app):** Helps organize workout routines and track progress.
 
-### Hobbies 🎵🎮🏂🎧
+### Hobbies 🎲🎉
 - **Drumming:** 🥁 I enjoy playing drums, mostly learning covers for my garage band.
 - **Gaming:** 🎮 I'm a lifelong gamer and love a variety of games. Elden Ring and Hades are my current favourites.
 - **Snowboarding:** 🏂 Love hitting the mountains and enjoying the snow as much as possible.
