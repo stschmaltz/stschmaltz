@@ -20,4 +20,4 @@ I'm currently a Staff Software Developer at [Jobber](https://getjobber.com/), wo
 - **Drumming:** 🥁 I enjoy playing drums, mostly learning covers for my garage band.
 - **Gaming:** 🎮 I'm a lifelong gamer and love a variety of games. Elden Ring and Hades are my current favourites.
 - **Snowboarding:** 🏂 Love hitting the mountains and enjoying the snow as much as possible.
-- **Music:** 🎧 Playing music is a more recent hobby of mine, but I've loved listening to it my whole life
+- **Music:** 🎧 Playing music is a recent-ish hobby of mine, but I've loved listening to it my whole life
