@@ -1,24 +1,54 @@
-# Shane Schmaltz 🚀
+<h1 align="center">Shane Schmaltz&nbsp;🚀</h1>
 
-📍 Calgary, AB, Canada | [LinkedIn](https://www.linkedin.com/in/stschmaltz/) | [GitHub](https://github.com/stschmaltz)
+<p align="center">
+  Calgary, AB, Canada &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/stschmaltz/">LinkedIn</a> &nbsp;|&nbsp;
+  <a href="https://github.com/stschmaltz">GitHub</a>
+</p>
 
-## Welcome to my profile! 👋
+---
 
-I'm currently a Staff Software Developer at [EdVisorly](https://https://www.edvisorly.com/), working full-stack on college transfers. Before this, I was one of the early developers at [Neo Financial](https://www.neofinancial.com/) and was a team+tech lead as we scaled from 0 to over a million users. I’m passionate about building meaningful software with a tech stack that excites me.
+## 👋 Hey there!
 
-### Tech Stack 🛠
-- **Languages & Frameworks:** TypeScript/JavaScript, React, React Native, Node.js, Elixir
-- **Databases:** MongoDB, PostgreSQL
-- **Cloud & Tools:** AWS, Terraform, Serverless Framework, GCP
-- **Design Patterns:** Event-driven, Microservice, Monolithic architectures
+I’m a **Staff Software Engineer at [EdVisorly](https://www.edvisorly.com)**, building systems that streamline college-transfer pathways.  
+Previously:
 
-### Side Projects 🎨
-- **[PracticePal](https://practicepal.app):** A tool for musicians to track their practice sessions.
-- **[FitnessFam](https://fitnessfam.app):** Helps organize workout routines and track progress.
-- **[Dungeon Master Essentials](https://encountermanager.com):** An encounter manager for Dungeons and Dragons 5e
+- **Staff Software Engineer / Manager – Boulevard** (payments fintech)
+- **Staff Software Engineer – Jobber** (invoicing fintech)
+- **Staff Software Engineer & Team Lead – Neo Financial** (scaled from 0 ➜ 1 M+ users, employee 22 -> ~800 when I left)
 
-### Hobbies 🎲🎉
+My happy place is where **product value, clean architecture, and developer experience** intersect. 
+
+I love building for the user and I love to build fast.
+
+---
+
+## 🛠 Tech-Stack Highlights
+
+- **Languages & Frameworks:** TypeScript / JavaScript, React & React Native (Next.js), Elixir / Phoenix, Node.js  
+- **Data:** PostgreSQL, MongoDB, Redis  
+- **Cloud & DevOps:** AWS (Lambda, ECS/Fargate, S3, SQS), Terraform, Cloudflare Workers, Docker, GitHub Actions  
+- **Architecture Patterns:** Event-Driven, Microservices, Domain-Driven Design
+
+
+---
+
+## 🚧 Current Side Quests
+
+| Project | What it is | Stack |
+|---------|------------|-------|
+| **Encounter Manager & Combat Tracker** | DnD 5e battle tool for busy DMs | NextJS • Tyoescript • MongoDB |
+| **PracticePal** | Practice-session tracker for musicians | VueJS • Firebase |
+| **FitnessFam** | Workout routine manager. | React • Mongo • GraphQL |
+---
+
+
+## Hobbies 🎲
+
 - **Drumming:** 🥁 I enjoy playing drums, mostly learning covers for my garage band.
 - **Gaming:** 🎮 I'm a lifelong gamer and love a variety of games. Elden Ring and Hades are my current favourites.
 - **Snowboarding:** 🏂 Love hitting the mountains and enjoying the snow as much as possible.
-- **Music:** 🎧 Playing music is a recent-ish hobby of mine, but I've loved listening to it my whole life
+- **Music Discovery:** 🎧 Playing music is a recent-ish hobby of mine, but I've loved listening to it my whole life. Always looking for a new fav artist.
+
+---
+
