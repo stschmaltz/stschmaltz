@@ -8,8 +8,8 @@ I'm currently a Staff Software Developer at [EdVisorly](https://https://www.edvi
 
 ### Tech Stack 🛠
 - **Languages & Frameworks:** TypeScript/JavaScript, React, React Native, Node.js, Elixir
-- **Databases:** MongoDB, PostgreSQL, DynamoDB
-- **Cloud & Tools:** AWS, Terraform, Serverless Framework
+- **Databases:** MongoDB, PostgreSQL
+- **Cloud & Tools:** AWS, Terraform, Serverless Framework, GCP
 - **Design Patterns:** Event-driven, Microservice, Monolithic architectures
 
 ### Side Projects 🎨
