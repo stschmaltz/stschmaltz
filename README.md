@@ -15,6 +15,7 @@ I'm currently a Staff Software Developer at [Jobber](https://getjobber.com/), wo
 ### Side Projects 🎨
 - **[PracticePal](https://practicepal.app):** A tool for musicians to track their practice sessions.
 - **[FitnessFam](https://fitnessfam.app):** Helps organize workout routines and track progress.
+- **[Dungeon Master Essentials](https://encountermanager.com):** An encounter manager for Dungeons and Dragons 5e
 
 ### Hobbies 🎲🎉
 - **Drumming:** 🥁 I enjoy playing drums, mostly learning covers for my garage band.
