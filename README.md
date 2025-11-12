@@ -10,8 +10,9 @@
 
 ## 👋 Hey there!
 
-I’m a **Staff Software Engineer at [EdVisorly](https://www.edvisorly.com)**, building systems that streamline college-transfer pathways.  
-Previously:
+I’m currently a **Staff Software Engineer at [EdVisorly](https://www.edvisorly.com)**, building systems that streamline college-transfer pathways.  
+
+#### Previously:
 
 - **Staff Software Engineer / Manager – Boulevard** (payments fintech)
 - **Staff Software Engineer – Jobber** (invoicing fintech)
