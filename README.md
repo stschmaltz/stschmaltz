@@ -77,8 +77,8 @@ I care about building the right thing for the user, owning complex systems end t
 
 | | Project | What | Stack |
 |:---:|---------|------|-------|
-| 🐉 | **[Behind the Screen](https://www.encountermanager.com)** | D&D 5e encounter manager & combat tracker | Next.js · TypeScript · MongoDB |
-| 🤖 | **[DME Mastra](https://github.com/stschmaltz/dme-mastra)** | AI agent D&D loot/NPC generator | Mastra · TypeScript |
+| 🐉 | **[Behind the Screen](https://www.encountermanager.com)** | Dunegons and Dragons 5e encounter manager & combat tracker | Next.js · TypeScript · MongoDB |
+| 🤖 | **[DME Mastra](https://github.com/stschmaltz/dme-mastra)** | AI agent Dunegons and Dragons loot/NPC generator | Mastra · TypeScript |
 | 🎵 | **[Practice Pal](https://practicepal.app)** | Music practice tracker | Nuxt.js · TypeScript · Firebase |
 | 💪 | **[Fitness Fam](https://fitnessfam.app)** | Workout routine PWA | Next.js · TypeScript · MongoDB |
 | 🚀 | **[Starfinder App](https://github.com/stschmaltz/starfinder-app)** | Starfinder TTRPG character sheet manager | Next.js · TypeScript · GraphQL · MongoDB |
@@ -93,7 +93,7 @@ I care about building the right thing for the user, owning complex systems end t
     <td align="center" width="150">🏂<br><b>Snowboarding</b><br><sub>Rockies every chance I get</sub></td>
     <td align="center" width="150">🖨️<br><b>3D Printing</b><br><sub>Minis, organizers, you name it</sub></td>
     <td align="center" width="150">🥁<br><b>Drumming</b><br><sub>Self-taught, learning covers</sub></td>
-    <td align="center" width="150">🐉<br><b>D&D</b><br><sub>Happily DMing</sub></td>
+    <td align="center" width="150">🐉<br><b>Dunegons and Dragons</b><br><sub>Happily DMing</sub></td>
     <td align="center" width="150">🎵<br><b>Music</b><br><sub>Send me recs</sub></td>
     <td align="center" width="150">🐈<br><b>Cats</b><br><sub>They run the house</sub></td>
   </tr>
