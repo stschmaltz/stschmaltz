@@ -1,55 +1,62 @@
-<h1 align="center">Shane Schmaltz&nbsp;🚀</h1>
+<h1 align="center">Shane Schmaltz</h1>
 
 <p align="center">
-  Calgary, AB, Canada &nbsp;|&nbsp;
-  <a href="https://www.linkedin.com/in/stschmaltz/">LinkedIn</a> &nbsp;|&nbsp;
-  <a href="https://github.com/stschmaltz">GitHub</a>
+  Staff Software Engineer · Calgary, AB
+</p>
+
+<p align="center">
+  <a href="https://www.shaneschmaltz.com">shaneschmaltz.com</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/stschmaltz/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:stschmaltz@gmail.com">Email</a>
 </p>
 
 ---
 
-## 👋 Hey there!
+## Hey 👋
 
-I’m currently a **Staff Software Engineer at [EdVisorly](https://www.edvisorly.com)**, building systems that streamline college-transfer pathways.  
+I'm a staff engineer with over 10 years building and scaling fintech and SaaS products. Currently a founding engineer at **[EdVisorly](https://www.edvisorly.com)**, building the platform end to end.
 
-#### Previously:
+I care deeply about building the right thing for the user, owning complex systems, and leveling up the people around me. I ship fast and I build things that hold up.
 
-- **Staff Software Engineer / Manager – Boulevard** (payments fintech)
-- **Staff Software Engineer – Jobber** (invoicing fintech)
-- **Staff Software Engineer & Team Lead – Neo Financial** (scaled from 0 ➜ 1 M+ users, employee 22 -> ~800 when I left)
+#### Previously
 
-My happy place is where **product value, clean architecture, and developer experience** intersect. 
-
-I love building for the user and I love to build fast.
+- **Staff Software Engineer / Engineering Manager — Boulevard** · Payments fintech. Led the team handling multi-million-dollar daily volumes.
+- **Staff Software Engineer — Jobber** · Invoicing tech lead. Owned systems behind multi-billion-dollar annual transaction volumes.
+- **Staff Software Engineer & Team Lead — Neo Financial** · Employee #22. Helped scale from zero to 1M+ users and ~800 employees.
 
 ---
 
-## 🛠 Tech-Stack Highlights
+## 🛠 Tech Stack
 
-- **Languages & Frameworks:** TypeScript / JavaScript, React & React Native (Next.js), Elixir / Phoenix, Node.js  
-- **Data:** PostgreSQL, MongoDB, Redis  
-- **Cloud & DevOps:** AWS (Lambda, ECS/Fargate, S3, SQS), Terraform, Cloudflare Workers, Docker, GitHub Actions  
-- **Architecture Patterns:** Event-Driven, Microservices, Domain-Driven Design
-
+- **Languages & Frameworks:** TypeScript, JavaScript, React, React Native, Next.js, Elixir, Node.js, Ruby on Rails
+- **Data:** PostgreSQL, MongoDB, DynamoDB, Redis, GraphQL
+- **Cloud & Infra:** AWS (Lambda, ECS/Fargate, S3, SQS, KMS), Terraform, Docker, GitHub Actions, Cloudflare Workers
+- **Architecture:** Event-Driven, Microservices, Domain-Driven Design, Serverless
 
 ---
 
-## 🚧 Current Side Quests
+## 🚧 Side Projects
 
 | Project | What it is | Stack |
 |---------|------------|-------|
-| **Encounter Manager & Combat Tracker** | DnD 5e battle tool for busy DMs | NextJS • Tyoescript • MongoDB |
-| **PracticePal** | Practice-session tracker for musicians | VueJS • Firebase |
-| **FitnessFam** | Workout routine manager. | React • Mongo • GraphQL |
----
-
-
-## Hobbies 🎲
-
-- **Drumming:** 🥁 I enjoy playing drums, mostly learning covers for my garage band.
-- **Gaming:** 🎮 I'm a lifelong gamer and love a variety of games. Elden Ring and Hades are my current favourites.
-- **Snowboarding:** 🏂 Love hitting the mountains and enjoying the snow as much as possible.
-- **Music Discovery:** 🎧 Playing music is a recent-ish hobby of mine, but I've loved listening to it my whole life. Always looking for a new fav artist.
+| **[Behind the Screen](https://github.com/stschmaltz)** | D&D 5e encounter manager and combat tracker | Next.js · TypeScript · MongoDB |
+| **[DME Mastra](https://github.com/stschmaltz)** | AI agent-based D&D loot/NPC generator | Mastra · TypeScript |
+| **[Practice Pal](https://practicepal.app)** | Music practice tracker | Vue.js · Firebase |
+| **[Fitness Fam](https://fitnessfam.app)** | Workout routine PWA | React · MongoDB · GraphQL |
 
 ---
 
+## Outside of Work
+
+- 🏂 **Snowboarding** — In the Rockies as much as possible. Louise, Sunshine, Kicking Horse.
+- 🖨️ **3D Printing** — Always printing something. Minis for D&D, stuff for the house, projects I'll never finish.
+- 🥁 **Drumming** — Self-taught, still learning. Built Practice Pal partly to track my own progress.
+- 🐉 **D&D** — I DM a regular campaign and I've built two apps to support it.
+- 🎵 **Music** — Always digging for something new. Send me a recommendation.
+- 🐈 **Cats** — Two of them. They run the house.
+
+---
+
+<p align="center">
+  <a href="https://www.shaneschmaltz.com">Check out my site →</a>
+</p>
