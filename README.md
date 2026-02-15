@@ -10,11 +10,9 @@
 
 ### 👋 &nbsp;About Me
 
-10+ years building and scaling fintech and SaaS products. Currently a founding engineer at **[EdVisorly](https://www.edvisorly.com)** — building the whole platform from scratch.
+Over years building and scaling products at startups and high-growth companies. Currently at **[EdVisorly](https://www.edvisorly.com)**, helping students navigate college-transfer pathways through the evolving power of AI.
 
-I care about building the right thing for the user, owning complex systems end to end, and leveling up the people around me. I ship fast and I build things that hold up.
-
-> Employee #22 at Neo Financial → helped scale to 1M+ users and ~800 employees.
+I care about building the right thing for the user, owning complex systems end to end, and leveling up the people around me.
 
 &nbsp;
 
@@ -24,32 +22,32 @@ I care about building the right thing for the user, owning complex systems end t
   <tr>
     <td align="center" width="100"><b>2025 →</b></td>
     <td width="300"><b>Staff Engineer</b><br>@ <a href="https://www.edvisorly.com">EdVisorly</a></td>
-    <td><sub>Founding engineer. Building the platform from zero.</sub></td>
+    <td><sub>Edtech + AI. College-transfer pathways, building with AI tooling.</sub></td>
   </tr>
   <tr>
     <td align="center"><b>2024</b></td>
     <td><b>Staff Engineer / EM</b><br>@ Boulevard</td>
-    <td><sub>Payments fintech. Led a team of 5, multi-million $ daily volumes.</sub></td>
+    <td><sub>Salon & spa SaaS. Led the payments team, managed 5 engineers.</sub></td>
   </tr>
   <tr>
     <td align="center"><b>2023</b></td>
     <td><b>Staff Engineer</b><br>@ Jobber</td>
-    <td><sub>Invoicing tech lead. Multi-billion $ annual transaction volumes.</sub></td>
+    <td><sub>Home service SaaS. Invoicing tech lead, ACH payments, hardened billing systems.</sub></td>
   </tr>
   <tr>
     <td align="center"><b>2019</b></td>
     <td><b>Staff Engineer / TL</b><br>@ Neo Financial</td>
-    <td><sub>Employee #22. Payments, rewards, and 3.5 years of hypergrowth.</sub></td>
+    <td><sub>Fintech. Employee #22, scaled to 1M+ users. Built the rewards system, led the card team.</sub></td>
   </tr>
   <tr>
     <td align="center"><b>2019</b></td>
     <td><b>Senior Engineer</b><br>@ Osperity</td>
-    <td><sub>Smart-camera SaaS platform.</sub></td>
+    <td><sub>IoT. Smart-camera SaaS platform.</sub></td>
   </tr>
   <tr>
     <td align="center"><b>2015</b></td>
     <td><b>Software Engineer</b><br>@ Replicon</td>
-    <td><sub>Where it all started.</sub></td>
+    <td><sub>Enterprise. Time-tracking SaaS — where it all started.</sub></td>
   </tr>
 </table>
 
@@ -83,9 +81,8 @@ I care about building the right thing for the user, owning complex systems end t
 | 🤖 | **[DME Mastra](https://github.com/stschmaltz/dme-mastra)** | AI agent D&D loot/NPC generator | Mastra · TypeScript |
 | 🎵 | **[Practice Pal](https://practicepal.app)** | Music practice tracker | Nuxt.js · TypeScript · Firebase |
 | 💪 | **[Fitness Fam](https://fitnessfam.app)** | Workout routine PWA | Next.js · TypeScript · MongoDB |
-| 🚀 | **[Starfinder App](https://github.com/stschmaltz/starfinder-app)** | Starfinder TTRPG campaign companion | Next.js · TypeScript · GraphQL · MongoDB |
-| 🏰 | **[Magicastle](https://github.com/stschmaltz/Magicastle)** | 2D wizard dungeon crawler (learning project) | Unity · C# |
-| 🌐 | **[shaneschmaltz.com](https://www.shaneschmaltz.com)** | This very site | React · Vite · Tailwind |
+| 🚀 | **[Starfinder App](https://github.com/stschmaltz/starfinder-app)** | Starfinder TTRPG character sheet manager | Next.js · TypeScript · GraphQL · MongoDB |
+| 🌐 | **[shaneschmaltz.com](https://www.shaneschmaltz.com)** | Personal website | React · Vite · Tailwind |
 
 &nbsp;
 
@@ -95,8 +92,8 @@ I care about building the right thing for the user, owning complex systems end t
   <tr>
     <td align="center" width="150">🏂<br><b>Snowboarding</b><br><sub>Rockies every chance I get</sub></td>
     <td align="center" width="150">🖨️<br><b>3D Printing</b><br><sub>Minis, organizers, you name it</sub></td>
-    <td align="center" width="150">🥁<br><b>Drumming</b><br><sub>Self-taught, basement sessions</sub></td>
-    <td align="center" width="150">🐉<br><b>D&D</b><br><sub>DM, two apps built for it</sub></td>
+    <td align="center" width="150">🥁<br><b>Drumming</b><br><sub>Self-taught, learning covers</sub></td>
+    <td align="center" width="150">🐉<br><b>D&D</b><br><sub>Forever DM</sub></td>
     <td align="center" width="150">🎵<br><b>Music</b><br><sub>Send me recs</sub></td>
     <td align="center" width="150">🐈<br><b>Cats</b><br><sub>They run the house</sub></td>
   </tr>
@@ -122,6 +119,8 @@ I care about building the right thing for the user, owning complex systems end t
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=stschmaltz&bg_color=00000000&color=333&line=2F7F85&point=C02C7A&area=true&area_color=2F7F85&hide_border=true" />
     <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=stschmaltz&bg_color=00000000&color=E8ECEF&line=2F7F85&point=E63E96&area=true&area_color=2F7F85&hide_border=true" alt="Activity Graph" />
   </picture>
+  <br>
+  <sub>The quiet days are usually scoping, reviews, or architecture work that lives in other tools.</sub>
 </div>
 
 &nbsp;
