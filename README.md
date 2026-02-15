@@ -26,8 +26,8 @@ I care about building the right thing for the user, owning complex systems end t
   </tr>
   <tr>
     <td align="center"><b>2024</b></td>
-    <td><b>Staff Engineer / EM</b><br>@ Boulevard</td>
-    <td><sub>Salon & spa SaaS. Led the payments team, managed 5 engineers.</sub></td>
+    <td><b>Staff Engineer / Engineering Manager</b><br>@ Boulevard</td>
+    <td><sub>Salon & spa SaaS. Led the payments team, managed 5 engineers as direct reports.</sub></td>
   </tr>
   <tr>
     <td align="center"><b>2023</b></td>
@@ -36,7 +36,7 @@ I care about building the right thing for the user, owning complex systems end t
   </tr>
   <tr>
     <td align="center"><b>2019</b></td>
-    <td><b>Staff Engineer / TL</b><br>@ Neo Financial</td>
+    <td><b>Staff Engineer / Team Lead</b><br>@ Neo Financial</td>
     <td><sub>Fintech. Employee #22, scaled to 1M+ users. Built the rewards system, led the card team.</sub></td>
   </tr>
   <tr>
