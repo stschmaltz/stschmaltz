@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:124447,60:2F7F85,100:E63E96&height=200&section=header&text=Shane%20Schmaltz&fontSize=42&fontColor=E8ECEF&fontAlignY=35&desc=Staff%20Software%20Engineer%20%C2%B7%20Calgary%2C%20AB%20%F0%9F%87%A8%F0%9F%87%A6&descSize=16&descAlignY=55&descColor=B8C1C5&animation=fadeIn)
 
-[🌐 shaneschmaltz.com](https://www.shaneschmaltz.com) &nbsp;·&nbsp; [💼 LinkedIn](https://www.linkedin.com/in/stschmaltz/) &nbsp;·&nbsp; [✉️ Email](mailto:stschmaltz@gmail.com)
+[🌐 shaneschmaltz.com](https://www.shaneschmaltz.com) &nbsp;·&nbsp; [💼 LinkedIn](https://www.linkedin.com/in/stschmaltz/) &nbsp;·&nbsp; [✉️ Email](mailto:stschmaltz@gmail.com) &nbsp;·&nbsp; [📝 Resume](https://www.shaneschmaltz.com/resume) 
 
 </div>
 
@@ -10,7 +10,7 @@
 
 ### 👋 &nbsp;About Me
 
-Over a decade building and scaling products at startups and high-growth companies. Currently a Staff Software Engineer at **[EdVisorly](https://www.edvisorly.com)**, helping students navigate college-transfer pathways.
+Over a decade building and scaling products at startups and high-growth companies. Currently a Staff Software Engineer at **[EdVisorly](https://www.edvisorly.com)**, helping students navigate college-transfer pathways leveraging the ever-evolving power of AI tools.
 
 I care about building the right thing for the user, owning complex systems end to end, and leveling up the people around me.
 
@@ -53,25 +53,6 @@ I care about building the right thing for the user, owning complex systems end t
 
 &nbsp;
 
-### ⚡ &nbsp;Tech Stack
-
-<div align="center">
-
-**Languages & Frameworks**
-
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,elixir,ruby,rails&theme=dark" />
-
-**Data & APIs**
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,dynamodb,redis,graphql&theme=dark" />
-
-**Cloud & Tooling**
-
-<img src="https://skillicons.dev/icons?i=aws,terraform,docker,githubactions,cloudflare,vercel&theme=dark" />
-
-</div>
-
-&nbsp;
 
 ### 🚧 &nbsp;Side Projects
 
@@ -101,7 +82,25 @@ I care about building the right thing for the user, owning complex systems end t
 
 &nbsp;
 
-### 📊 &nbsp;Stats
+### ⚡ &nbsp;Tech Stack
+
+<div align="center">
+
+**Languages & Frameworks**
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,elixir,ruby,rails&theme=dark" />
+
+**Data & APIs**
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,dynamodb,redis,graphql&theme=dark" />
+
+**Cloud & Tooling**
+
+<img src="https://skillicons.dev/icons?i=aws,terraform,docker,githubactions,cloudflare,vercel&theme=dark" />
+
+</div>
+
+&nbsp;
 
 <div align="center">
   <picture>
