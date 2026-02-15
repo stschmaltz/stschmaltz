@@ -10,7 +10,7 @@
 
 ### 👋 &nbsp;About Me
 
-Over years building and scaling products at startups and high-growth companies. Currently at **[EdVisorly](https://www.edvisorly.com)**, helping students navigate college-transfer pathways through the evolving power of AI.
+Over a decade building and scaling products at startups and high-growth companies. Currently a Staff Software Engineer at **[EdVisorly](https://www.edvisorly.com)**, helping students navigate college-transfer pathways.
 
 I care about building the right thing for the user, owning complex systems end to end, and leveling up the people around me.
 
@@ -77,7 +77,7 @@ I care about building the right thing for the user, owning complex systems end t
 
 | | Project | What | Stack |
 |:---:|---------|------|-------|
-| 🐉 | **[Behind the Screen](https://github.com/stschmaltz/behind-the-screen)** | D&D 5e encounter manager & combat tracker | Next.js · TypeScript · MongoDB |
+| 🐉 | **[Behind the Screen](https://www.encountermanager.com)** | D&D 5e encounter manager & combat tracker | Next.js · TypeScript · MongoDB |
 | 🤖 | **[DME Mastra](https://github.com/stschmaltz/dme-mastra)** | AI agent D&D loot/NPC generator | Mastra · TypeScript |
 | 🎵 | **[Practice Pal](https://practicepal.app)** | Music practice tracker | Nuxt.js · TypeScript · Firebase |
 | 💪 | **[Fitness Fam](https://fitnessfam.app)** | Workout routine PWA | Next.js · TypeScript · MongoDB |
@@ -93,7 +93,7 @@ I care about building the right thing for the user, owning complex systems end t
     <td align="center" width="150">🏂<br><b>Snowboarding</b><br><sub>Rockies every chance I get</sub></td>
     <td align="center" width="150">🖨️<br><b>3D Printing</b><br><sub>Minis, organizers, you name it</sub></td>
     <td align="center" width="150">🥁<br><b>Drumming</b><br><sub>Self-taught, learning covers</sub></td>
-    <td align="center" width="150">🐉<br><b>D&D</b><br><sub>Forever DM</sub></td>
+    <td align="center" width="150">🐉<br><b>D&D</b><br><sub>Happily DMing</sub></td>
     <td align="center" width="150">🎵<br><b>Music</b><br><sub>Send me recs</sub></td>
     <td align="center" width="150">🐈<br><b>Cats</b><br><sub>They run the house</sub></td>
   </tr>
