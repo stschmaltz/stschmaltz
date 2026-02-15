@@ -10,7 +10,7 @@
 
 ### 👋 &nbsp;About Me
 
-Over a decade building and scaling products at startups and high-growth companies. Currently a Staff Software Engineer at **[EdVisorly](https://www.edvisorly.com)**, helping students navigate college-transfer pathways leveraging the ever-evolving power of AI tools.
+Over a decade building and scaling products at startups and high-growth companies. Currently a Staff Software Engineer at **[EdVisorly](https://www.edvisorly.com)**, helping students navigate college-transfer pathways leveraging the ever-evolving power of AI.
 
 I care about building the right thing for the user, owning complex systems end to end, and leveling up the people around me.
 
