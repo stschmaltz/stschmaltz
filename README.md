@@ -1,62 +1,135 @@
-<h1 align="center">Shane Schmaltz</h1>
+<div align="center">
 
-<p align="center">
-  Staff Software Engineer · Calgary, AB
-</p>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:124447,60:2F7F85,100:E63E96&height=200&section=header&text=Shane%20Schmaltz&fontSize=42&fontColor=E8ECEF&fontAlignY=35&desc=Staff%20Software%20Engineer%20%C2%B7%20Calgary%2C%20AB%20%F0%9F%87%A8%F0%9F%87%A6&descSize=16&descAlignY=55&descColor=B8C1C5&animation=fadeIn)
 
-<p align="center">
-  <a href="https://www.shaneschmaltz.com">shaneschmaltz.com</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/stschmaltz/">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:stschmaltz@gmail.com">Email</a>
-</p>
+[🌐 shaneschmaltz.com](https://www.shaneschmaltz.com) &nbsp;·&nbsp; [💼 LinkedIn](https://www.linkedin.com/in/stschmaltz/) &nbsp;·&nbsp; [✉️ Email](mailto:stschmaltz@gmail.com)
 
----
+</div>
 
-## Hey 👋
+&nbsp;
 
-I'm a staff engineer with over 10 years building and scaling fintech and SaaS products. Currently a founding engineer at **[EdVisorly](https://www.edvisorly.com)**, building the platform end to end.
+### 👋 &nbsp;About Me
 
-I care deeply about building the right thing for the user, owning complex systems, and leveling up the people around me. I ship fast and I build things that hold up.
+10+ years building and scaling fintech and SaaS products. Currently a founding engineer at **[EdVisorly](https://www.edvisorly.com)** — building the whole platform from scratch.
 
-#### Previously
+I care about building the right thing for the user, owning complex systems end to end, and leveling up the people around me. I ship fast and I build things that hold up.
 
-- **Staff Software Engineer / Engineering Manager — Boulevard** · Payments fintech. Led the team handling multi-million-dollar daily volumes.
-- **Staff Software Engineer — Jobber** · Invoicing tech lead. Owned systems behind multi-billion-dollar annual transaction volumes.
-- **Staff Software Engineer & Team Lead — Neo Financial** · Employee #22. Helped scale from zero to 1M+ users and ~800 employees.
+> Employee #22 at Neo Financial → helped scale to 1M+ users and ~800 employees.
 
----
+&nbsp;
 
-## 🛠 Tech Stack
+### 🗺️ &nbsp;The Journey So Far
 
-- **Languages & Frameworks:** TypeScript, JavaScript, React, React Native, Next.js, Elixir, Node.js, Ruby on Rails
-- **Data:** PostgreSQL, MongoDB, DynamoDB, Redis, GraphQL
-- **Cloud & Infra:** AWS (Lambda, ECS/Fargate, S3, SQS, KMS), Terraform, Docker, GitHub Actions, Cloudflare Workers
-- **Architecture:** Event-Driven, Microservices, Domain-Driven Design, Serverless
+<table width="100%">
+  <tr>
+    <td align="center" width="100"><b>2025 →</b></td>
+    <td width="300"><b>Staff Engineer</b><br>@ <a href="https://www.edvisorly.com">EdVisorly</a></td>
+    <td><sub>Founding engineer. Building the platform from zero.</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><b>2024</b></td>
+    <td><b>Staff Engineer / EM</b><br>@ Boulevard</td>
+    <td><sub>Payments fintech. Led a team of 5, multi-million $ daily volumes.</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><b>2023</b></td>
+    <td><b>Staff Engineer</b><br>@ Jobber</td>
+    <td><sub>Invoicing tech lead. Multi-billion $ annual transaction volumes.</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><b>2019</b></td>
+    <td><b>Staff Engineer / TL</b><br>@ Neo Financial</td>
+    <td><sub>Employee #22. Payments, rewards, and 3.5 years of hypergrowth.</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><b>2019</b></td>
+    <td><b>Senior Engineer</b><br>@ Osperity</td>
+    <td><sub>Smart-camera SaaS platform.</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><b>2015</b></td>
+    <td><b>Software Engineer</b><br>@ Replicon</td>
+    <td><sub>Where it all started.</sub></td>
+  </tr>
+</table>
 
----
+&nbsp;
 
-## 🚧 Side Projects
+### ⚡ &nbsp;Tech Stack
 
-| Project | What it is | Stack |
-|---------|------------|-------|
-| **[Behind the Screen](https://github.com/stschmaltz)** | D&D 5e encounter manager and combat tracker | Next.js · TypeScript · MongoDB |
-| **[DME Mastra](https://github.com/stschmaltz)** | AI agent-based D&D loot/NPC generator | Mastra · TypeScript |
-| **[Practice Pal](https://practicepal.app)** | Music practice tracker | Vue.js · Firebase |
-| **[Fitness Fam](https://fitnessfam.app)** | Workout routine PWA | React · MongoDB · GraphQL |
+<div align="center">
 
----
+**Languages & Frameworks**
 
-## Outside of Work
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,elixir,ruby,rails&theme=dark" />
 
-- 🏂 **Snowboarding** — In the Rockies as much as possible. Louise, Sunshine, Kicking Horse.
-- 🖨️ **3D Printing** — Always printing something. Minis for D&D, stuff for the house, projects I'll never finish.
-- 🥁 **Drumming** — Self-taught, still learning. Built Practice Pal partly to track my own progress.
-- 🐉 **D&D** — I DM a regular campaign and I've built two apps to support it.
-- 🎵 **Music** — Always digging for something new. Send me a recommendation.
-- 🐈 **Cats** — Two of them. They run the house.
+**Data & APIs**
 
----
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,dynamodb,redis,graphql&theme=dark" />
 
-<p align="center">
-  <a href="https://www.shaneschmaltz.com">Check out my site →</a>
-</p>
+**Cloud & Tooling**
+
+<img src="https://skillicons.dev/icons?i=aws,terraform,docker,githubactions,cloudflare,vercel&theme=dark" />
+
+</div>
+
+&nbsp;
+
+### 🚧 &nbsp;Side Projects
+
+| | Project | What | Stack |
+|:---:|---------|------|-------|
+| 🐉 | **[Behind the Screen](https://github.com/stschmaltz/behind-the-screen)** | D&D 5e encounter manager & combat tracker | Next.js · TypeScript · MongoDB |
+| 🤖 | **[DME Mastra](https://github.com/stschmaltz/dme-mastra)** | AI agent D&D loot/NPC generator | Mastra · TypeScript |
+| 🎵 | **[Practice Pal](https://practicepal.app)** | Music practice tracker | Nuxt.js · TypeScript · Firebase |
+| 💪 | **[Fitness Fam](https://fitnessfam.app)** | Workout routine PWA | Next.js · TypeScript · MongoDB |
+| 🚀 | **[Starfinder App](https://github.com/stschmaltz/starfinder-app)** | Starfinder TTRPG campaign companion | Next.js · TypeScript · GraphQL · MongoDB |
+| 🏰 | **[Magicastle](https://github.com/stschmaltz/Magicastle)** | 2D wizard dungeon crawler (learning project) | Unity · C# |
+| 🌐 | **[shaneschmaltz.com](https://www.shaneschmaltz.com)** | This very site | React · Vite · Tailwind |
+
+&nbsp;
+
+### 🎲 &nbsp;When I'm Not Coding
+
+<table>
+  <tr>
+    <td align="center" width="150">🏂<br><b>Snowboarding</b><br><sub>Rockies every chance I get</sub></td>
+    <td align="center" width="150">🖨️<br><b>3D Printing</b><br><sub>Minis, organizers, you name it</sub></td>
+    <td align="center" width="150">🥁<br><b>Drumming</b><br><sub>Self-taught, basement sessions</sub></td>
+    <td align="center" width="150">🐉<br><b>D&D</b><br><sub>DM, two apps built for it</sub></td>
+    <td align="center" width="150">🎵<br><b>Music</b><br><sub>Send me recs</sub></td>
+    <td align="center" width="150">🐈<br><b>Cats</b><br><sub>They run the house</sub></td>
+  </tr>
+</table>
+
+&nbsp;
+
+### 📊 &nbsp;Stats
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=stschmaltz&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&text_color=E8ECEF&icon_color=E63E96&ring_color=2F7F85" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=stschmaltz&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&text_color=333&icon_color=C02C7A&ring_color=2F7F85" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=stschmaltz&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&text_color=E8ECEF&icon_color=E63E96&ring_color=2F7F85" />
+  </picture>
+</div>
+
+&nbsp;
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=stschmaltz&bg_color=00000000&color=E8ECEF&line=2F7F85&point=E63E96&area=true&area_color=2F7F85&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=stschmaltz&bg_color=00000000&color=333&line=2F7F85&point=C02C7A&area=true&area_color=2F7F85&hide_border=true" />
+    <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=stschmaltz&bg_color=00000000&color=E8ECEF&line=2F7F85&point=E63E96&area=true&area_color=2F7F85&hide_border=true" alt="Activity Graph" />
+  </picture>
+</div>
+
+&nbsp;
+
+<div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:E63E96,30:2F7F85,60:124447,100:0D1117&height=100&section=footer)
+
+**[→ shaneschmaltz.com ←](https://www.shaneschmaltz.com)**
+
+</div>
