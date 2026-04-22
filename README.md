@@ -20,7 +20,7 @@ I care about building the right thing for the user, owning complex systems end t
 
 <table width="100%">
   <tr>
-    <td align="center" width="100"><b>2025 →</b></td>
+    <td align="center" width="100"><b>2025 - Present</b></td>
     <td width="300"><b>Staff Engineer</b><br>@ <a href="https://www.edvisorly.com">EdVisorly</a></td>
     <td><sub>Edtech + AI. College-transfer pathways, building with AI tooling.</sub></td>
   </tr>
@@ -106,7 +106,7 @@ I care about building the right thing for the user, owning complex systems end t
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=stschmaltz&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&text_color=E8ECEF&icon_color=E63E96&ring_color=2F7F85" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=stschmaltz&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&text_color=333&icon_color=C02C7A&ring_color=2F7F85" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=stschmaltz&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&text_color=E8ECEF&icon_color=E63E96&ring_color=2F7F85" />
+    <!-- <img height="165" src="https://github-readme-stats.vercel.app/api?username=stschmaltz&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&text_color=E8ECEF&icon_color=E63E96&ring_color=2F7F85" /> -->
   </picture>
 </div>
 
